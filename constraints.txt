@@ -1,6 +1,6 @@
 blinker==1.6.2
 click==8.1.7
-coverage==7.3.0
+coverage==7.3.2
 Flask==2.3.3
 iniconfig==2.0.0
 itsdangerous==2.1.2
